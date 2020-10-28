@@ -1,5 +1,9 @@
 Read me 
 
+Stuff to do
+- xxx
+- xxxx
+
 Alterei dnv
 
-Nova linha adicionada.
+Linha anterior deletada
