@@ -23,8 +23,8 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 <p align="justify">
   <a href="https://nodejs.org/en/"> <img src="https://img.shields.io/badge/Nodejs-V1.0-0BB5FF?labelColor=FF7F00"/></a> - Core Back-End <br>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/Reactjs-V1.0-0BB5FF?labelColor=FF7F00"/></a> - Biblioteca Front-End <br>
-  <a href="https://www.npmjs.com/package/axios"><img src="https://img.shields.io/badge/Axios-V1.0-0BB5FF?labelColor=FF7F00"/></a> --<br>
-  <a href=""><img src="https://img.shields.io/badge/Enlist-V1.0-0BB5FF?labelColor=FF7F00"/></a> --<br>
+  <a href="https://www.npmjs.com/package/axios"><img src="https://img.shields.io/badge/Axios-V1.0-0BB5FF?labelColor=FF7F00"/></a> - Cliente HTTP baseado em promisses para o navegador e node.js<br>
+  <a href="https://eslint.org/"><img src="https://img.shields.io/badge/Eslint-V1.0-0BB5FF?labelColor=FF7F00"/></a> - <br>
   <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/Npm-V1.0-0BB5FF?labelColor=FF7F00"/></a> - Gerenciador de Depêndicias<br>
 </p>
 <br><br>
