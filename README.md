@@ -24,11 +24,11 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 <br><br>
 <h1 align="left">🛠️ Desenvolvido com</h1>
 <p align="justify">
-  <a href="https://nodejs.org/en/"> Nodejs</a> Core Back-End <br>
-  <a href="https://reactjs.org/"> Reactjs</a> Biblioteca Front-End <br>
-  <a href="https://www.npmjs.com/package/axios"> Axios</a> --<br>
-  <a href=""> Elist</a> --<br>
-  <a href="https://www.npmjs.com/"> Npm</a> Gerenciador de Depêndicias<br>
+  <a href="https://nodejs.org/en/"> <img src="https://img.shields.io/badge/Nodejs-V1.0-0BB5FF?labelColor=FF7F00"/></a> Core Back-End <br>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/Reactjs-V1.0-0BB5FF?labelColor=FF7F00"/><</a> Biblioteca Front-End <br>
+  <a href="https://www.npmjs.com/package/axios"><img src="https://img.shields.io/badge/Axios-V1.0-0BB5FF?labelColor=FF7F00"/></a> --<br>
+  <a href=""><img src="https://img.shields.io/badge/Enlist-V1.0-0BB5FF?labelColor=FF7F00"/></a> --<br>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/Npm-V1.0-0BB5FF?labelColor=FF7F00"/></a> Gerenciador de Depêndicias<br>
 </p>
 <br><br>
 <h1 align="left">✒️ Desenvolvedores</h1>
