@@ -12,7 +12,7 @@ da FCamara, de modo que todos consigam sem exceção, seu momento de descontraç
 Mas por algo mais descontraído, não é muito organizado. Às vezes demora para alguém jogar, já que temos em torno de mais de 90 colaboradores só da FC Santos. Isso acaba acarretando em uma fila, feita apenas no boca a boca, deixando de fora algumas pessoas que não conseguiram jogar no dia."</p>
 <br><br>
 <h2 align="left">Badges</h2>
-<img src="https://img.shields.io/badge/Npm-V1.0-brightgreen?labelColor=FF7F00"/>
+<img src="https://img.shields.io/badge/Npm-V1.0-0BB5FF?labelColor=FF7F00"/><br>
 <br><br>
 <h2 align="left">⏳ Status</h2>
 <p align="justify">
