@@ -19,7 +19,7 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 <h2 align="center">Status</h>
 <h4 align="center">🚧 Em Desenvolvimento... 🚧</h>
 
-<h2 align="center">Features</h><br>
+<h2 align="center">Features</h2><br>
 
 - [x] Cadastro de usuário
 - [x] Cadastro da Fila de Jogos
