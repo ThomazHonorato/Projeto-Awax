@@ -11,15 +11,18 @@ da FCamara, de modo que todos consigam sem exceção, seu momento de descontraç
   
 
 Mas por algo mais descontraído, não é muito organizado. Às vezes demora para alguém jogar, já que temos em torno de mais de 90 colaboradores só da FC Santos. Isso acaba acarretando em uma fila, feita apenas no boca a boca, deixando de fora algumas pessoas que não conseguiram jogar no dia."</p>
-
+<br><br>
 <h2 align="left">Badges</h2>
 
+<br><br>
 <h2 align="left">⏳ Status</h2>
+
+<br><br>
 <h4 align="left">🚧 Em Desenvolvimento... 🚧</h4>
 
 <h2 align="left">🚀 Features</h2><br>
 
-
+<br><br>
 <h1 align="left">✒️ Desenvolvedores</h1>
 <p align="justify">
   <b>Thomaz Honorato Soares</b> <a href="">Github</a> <a href="">Linkedin</a><br>
