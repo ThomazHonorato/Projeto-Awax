@@ -1,4 +1,4 @@
-<h1 align="center">🔶 Programa de Formação à Distância FCamara 🔶<br><br>🔸 2º Semestre de 2020 🔸</h1>
+<h1 align="center">🍊 Programa de Formação à Distância FCamara 🍊<br><br>🔸 2º Semestre de 2020 🔸</h1>
 <br<br>
 <h2 align="left">📋 Sobre o Projeto</h2>
 <h3 align="left">Sistema de Solução FIFO</h3>
@@ -12,7 +12,7 @@ da FCamara, de modo que todos consigam sem exceção, seu momento de descontraç
 Mas por algo mais descontraído, não é muito organizado. Às vezes demora para alguém jogar, já que temos em torno de mais de 90 colaboradores só da FC Santos. Isso acaba acarretando em uma fila, feita apenas no boca a boca, deixando de fora algumas pessoas que não conseguiram jogar no dia."</p>
 <br><br>
 <h2 align="left">Badges</h2>
-
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=plastic&logo=appveyor/>
 <br><br>
 <h2 align="left">⏳ Status</h2>
 <p align="justify">
