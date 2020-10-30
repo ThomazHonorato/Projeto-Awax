@@ -14,14 +14,14 @@ da FCamara, de modo que todos consigam sem exceção, seu momento de descontraç
 
 Mas por algo mais descontraído, não é muito organizado. Às vezes demora para alguém jogar, já que temos em torno de mais de 90 colaboradores só da FC Santos. Isso acaba acarretando em uma fila, feita apenas no boca a boca, deixando de fora algumas pessoas que não conseguiram jogar no dia."</p>
 
-<h2 align="center">Badges</h>
+<h2 align="center">Badges</h2>
 
-<h2 align="center">Status</h>
-<h4 align="center">🚧 Em Desenvolvimento... 🚧</h>
+<h2 align="center">Status</h2>
+<h4 align="center">🚧 Em Desenvolvimento... 🚧</h4>
 
 <h2 align="center">Features</h2><br>
 
-- [x] Cadastro de usuário
-- [x] Cadastro da Fila de Jogos
-- [ ] Feature not Implemented
+- [] Cadastro de usuário
+- [] Cadastro da Fila de Jogos
+- [] Feature not Implemented
 
