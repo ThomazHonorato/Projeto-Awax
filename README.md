@@ -20,7 +20,8 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 <h4 align="center">🚧 Em Desenvolvimento... 🚧</h>
 
 <h2 align="center">Features</h><br>
--[ ] Cadastro de Usuários<br>
--[ ] Cadastro na Fila de Jogos<br>
--[ ] ... <br>
+
+- [x] Cadastro de usuário
+- [x] Cadastro da Fila de Jogos
+- [ ] Feature not Implemented
 
