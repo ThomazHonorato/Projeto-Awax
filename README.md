@@ -21,8 +21,11 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 
 <h2 align="center">Features</h2><br>
 
+
+<h1 align="center">✒️ Desenvolvedores</h1>
 <p align="center">
-  - [ ] Cadastro de usuário<br>
-  - [ ] Cadastro da Fila de Jogos<br>
-  - [ ] Feature not Implemented<br>
+  <b>Thomaz Honorato Soares</b> <a href="">Github</a> <a href="">Linkedin</a><br>
+  <b>Luiz Alberto</b> <a href="">Github</a> <a href="">Linkedin</a><br>
+  <b>Jéssica Silva</b> <a href="">Github</a> <a href="">Linkedin</a><br>
+  <b>Matheus Sabino</b> <a href="">Github</a> <a href="">Linkedin</a><br>
 </p>
