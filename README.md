@@ -16,12 +16,21 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 
 <br><br>
 <h2 align="left">⏳ Status</h2>
-
+<p align="justify">
+  <b><🚧 Em Desenvolvimento... 🚧<b>
+</p>
 <br><br>
-<h4 align="left">🚧 Em Desenvolvimento... 🚧</h4>
-
 <h2 align="left">🚀 Features</h2><br>
 
+<br><br>
+<h1 align="left">🛠️ Desenvolvido com</h1>
+<p align="justify">
+  <a href=""> Nodejs</a> Core Back-End <br>
+  <a href=""> Reactjs</a> Biblioteca Front-End <br>
+  <a href=""> Axios</a> --<br>
+  <a href=""> Elist</a> --<br>
+  <a href=""> Npm</a> Gerenciador de Depêndicias<br>
+</p>
 <br><br>
 <h1 align="left">✒️ Desenvolvedores</h1>
 <p align="justify">
