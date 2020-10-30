@@ -21,7 +21,8 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 
 <h2 align="center">Features</h2><br>
 
-- [] Cadastro de usuário
-- [] Cadastro da Fila de Jogos
-- [] Feature not Implemented
-
+<p align="center">
+  - [ ] Cadastro de usuário<br>
+  - [ ] Cadastro da Fila de Jogos<br>
+  - [ ] Feature not Implemented<br>
+</p>
