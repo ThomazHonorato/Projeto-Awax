@@ -24,8 +24,8 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 <br><br>
 <h1 align="left">🛠️ Desenvolvido com</h1>
 <p align="justify">
-  <a href=""> Nodejs</a> Core Back-End <br>
-  <a href=""> Reactjs</a> Biblioteca Front-End <br>
+  <a href="https://nodejs.org/en/" target="_blank"> Nodejs</a> Core Back-End <br>
+  <a href="https://reactjs.org/" target="_blank"> Reactjs</a> Biblioteca Front-End <br>
   <a href=""> Axios</a> --<br>
   <a href=""> Elist</a> --<br>
   <a href=""> Npm</a> Gerenciador de Depêndicias<br>
