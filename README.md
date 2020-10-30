@@ -17,7 +17,7 @@ Mas por algo mais descontraído, não é muito organizado. Às vezes demora para
 <br><br>
 <h2 align="left">⏳ Status</h2>
 <p align="justify">
-  <b><🚧 Em Desenvolvimento... 🚧<b>
+  <b>🚧 Em Desenvolvimento... 🚧<b>
 </p>
 <br><br>
 <h2 align="left">🚀 Features</h2><br>
